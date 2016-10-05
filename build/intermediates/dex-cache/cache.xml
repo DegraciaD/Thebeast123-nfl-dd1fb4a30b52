@@ -2,60 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_969343ea174e47a7ad0bf41aa3cb20e8896d22dc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_26191d75ac509f3c074f5b53e43c92a593817d0e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_865f2894f399822e9df5fc4b5aa9ffa651dbce97\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="793d7a828497ceb9ee7f479560b898aacc790857">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3859b49d6e06122e10c3768da131179fbf65e45b\classes.dex" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_8144e99529fe1941c01b5017c63b47d37ffd6691\classes.dex" />
     </item>
     <item
         jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="1821801b43d44f4f7f7fcc226b68713664825b48">
+        sha1="4926c6178f1d710aaa847215cbde4bab8236169e">
         <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0304a5e99f937321da5e2d4a230ec9e0ae8a17d0\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_65a4fd8cafd0eac1305f26c37fb18be79c4857da\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_d2b8aad5aa8b4aae5f879b31aa175960a321ec43\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cdbc95521a1d9f9d3f391fe4878f29bd748fb943\classes.dex" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_ae8fd178858500017a0a97ad36efd6857c622e4c\classes.dex" />
     </item>
 
 </items>
