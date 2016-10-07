@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_8144e99529fe1941c01b5017c63b47d37ffd6691\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="4926c6178f1d710aaa847215cbde4bab8236169e">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0304a5e99f937321da5e2d4a230ec9e0ae8a17d0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\Thebeast123-nfl-dd1fb4a30b52\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_ae8fd178858500017a0a97ad36efd6857c622e4c\classes.dex" />
-    </item>
-
-</items>
