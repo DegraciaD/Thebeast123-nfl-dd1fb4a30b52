@@ -43,15 +43,17 @@ public class MainActivity extends AppCompatActivity {
             double delta = currentAcceleration - previousAcceleration;
             acceleration = acceleration * 0.9f + delta;
 
+
             if(acceleration > 15){
                 Toast toast = Toast.makeText(getApplication(), "Device has shaken", Toast.LENGTH_SHORT);
                 toast.show();
+                mediaPlayer.start();
+                TextView myText = (TextView)findViewById(R.id.answerText);
             }
         }
 
         @Override
         public void onAccuracyChanged(Sensor sensor, int accuracy) {
-
         }
     };
     /**
